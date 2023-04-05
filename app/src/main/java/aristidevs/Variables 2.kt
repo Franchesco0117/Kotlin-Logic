@@ -51,7 +51,7 @@ fun concatenation(){
     println("$greeting $name")
 
     //Tambien podemos hacer operaciones pero creo que se ve algo confuso y feo
-    val introduction = "El resultado de"
+    val introduction = "El resultado de la cosa"
     val plus = "más"
     val firstNumber = 2
     val secondNumber = 5
